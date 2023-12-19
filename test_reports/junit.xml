@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="backend tests" tests="1" failures="0" errors="0" time="2.169">
+  <testsuite name="User Workflow Tests" errors="0" failures="0" skipped="0" timestamp="2023-11-14T04:26:58" time="2.143" tests="1">
+    <testcase classname="User Workflow Tests should register, login, create article, update headline, and logout" name="User Workflow Tests should register, login, create article, update headline, and logout" time="1.603">
+    </testcase>
+  </testsuite>
+</testsuites>
